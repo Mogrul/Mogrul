@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/@Mogrul?name=Mogrul&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1">
 
-## Full-Stack — Mogrul Wiggins <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
+## Full-Stack — Morgan Wiggins <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
 
 <p align="center">
   <a href="https://github.com/Mogrul">
