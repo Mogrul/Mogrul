@@ -1,12 +1,17 @@
 <img align="right" src="https://count.getloli.com/@Mogrul?name=Mogrul&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1">
 
-## Full-Stack Software Developer — Mogrul <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## Full-Stack Software Developer — Mogrul <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
 
 <p align="center">
-  <a href="https://github.com/Aurorp1g">
+  <a href="https://github.com/Mogrul">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20E35&random=true&width=435&lines=Python%2C+Java%2C+HTML%2C+JS%2C+CSS;Photoshop%2C+Autodesk+Maya;ProxMox%2C+Debian" alt="Typing SVG" /></a>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://mogrul.com">https://mogrul.com</a>
+</p>
+
 
 ### About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
