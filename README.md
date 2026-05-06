@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/@Mogrul?name=Mogrul&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1">
 
-## Full-Stack Software Developer — Mogrul <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
+## Full-Stack — Mogrul Wiggins <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
 
 <p align="center">
   <a href="https://github.com/Mogrul">
@@ -17,7 +17,7 @@
 
 <div><img align="right" alt="PNG" src="https://avatars.githubusercontent.com/u/222472208?v=4" width="300" height="auto" /></div>
 
-- Hey! I'm Mogrul, from Birmingham, UK. 🫘🍞
+- Hey! I'm Morgan, from Birmingham, UK. 🫘🍞
 - I'm a Full-Stack Software Engineer 👨‍💻
 - I'm interested in the creative side of software! 🚀
 - Welcome to my GitHub! 🍧
