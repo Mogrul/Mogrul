@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Mogrul">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20E35&random=true&width=435&lines=Python%2C+Java%2C+HTML%2C+JS%2C+CSS;Photoshop%2C+Autodesk+Maya;ProxMox%2C+Debian" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20E35&center=true&vCenter=true&random=true&width=435&lines=Python%2C+Java%2C+HTML%2C+JS%2C+CSS;Photoshop%2C+Autodesk+Maya;ProxMox%2C+Debian" alt="Typing SVG" /></a>
   </a>
 </p>
 
