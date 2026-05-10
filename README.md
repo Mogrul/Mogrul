@@ -47,6 +47,7 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Calender&theme=github_dark_dimmed)](https://github.com/Mogrul/Calender)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Economy&theme=github_dark_dimmed)](https://github.com/Mogrul/Economy)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Gravestones&theme=github_dark_dimmed)](https://github.com/Mogrul/Gravestones)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=AConflictSL&theme=github_dark_dimmed)](https://github.com/Mogrul/AConflictSL)
 <br>
 
 <div><img align="right" alt="PNG" src="https://cataas.com/cat/says/Mogrul?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=300&height=300" width="300" height="auto" /></div>
