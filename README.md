@@ -44,7 +44,6 @@
 
 ### Projects <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Tutorials&theme=github_dark_dimmed)](https://github.com/Mogrul/Tutorials)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Calender&theme=github_dark_dimmed)](https://github.com/Mogrul/Calender)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Economy&theme=github_dark_dimmed)](https://github.com/Mogrul/Economy)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=Gravestones&theme=github_dark_dimmed)](https://github.com/Mogrul/Gravestones)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Mogrul&repo=AConflictStatDashboard&theme=github_dark_dimmed)](https://github.com/Mogrul/AConflictStatDashboard)
