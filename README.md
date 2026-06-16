@@ -22,9 +22,6 @@
   <p align="left">🎓 Computer Science — First Class Honours</p>
   <p align="left">🎨 Art & Design — Level 3</p>
 </td>
-<td>
-  <img src="https://metrics.lecoq.io/Mogrul?template=classic&repositories.forks=true&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata" width="600">
-</td>
 </tr>
 <tr>
 <td align="center" colspan="2">
